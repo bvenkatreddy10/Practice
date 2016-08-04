@@ -1,0 +1,1 @@
+This reposiroty is just to practice git commands
